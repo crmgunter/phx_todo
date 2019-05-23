@@ -2,7 +2,7 @@ use Mix.Config
 
 # Configure your database
 config :todo, Todo.Repo,
-  username: "postgres",
+  username: "camerongunter",
   password: "postgres",
   database: "todo_dev",
   hostname: "localhost",
